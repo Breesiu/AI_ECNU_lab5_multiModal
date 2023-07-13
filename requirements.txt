@@ -1,0 +1,7 @@
+numpy 
+torch==2.0.0
+torchmetrics
+torchvision
+tqdm
+SentencePiece
+transformers==4.29.2
